@@ -55,8 +55,8 @@ mail_via_python = message.send(to='shahti42@gmail.com',
                                smtp={'host': 'smtp.gmail.com', 
                                      'timeout': 5,
                                     'port':587,
-                                    'user':'tirthshah180140111098@gmail.com',
-                                    'password':'Dadabhagwan@123',
+                                    'user':'youremail',
+                                    'password':'youremailpas',
                                     'tls':True})
 
 
